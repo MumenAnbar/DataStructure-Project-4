@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1688976643 source:c:\users\mumen\onedrive\desktop\ppppp\project4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

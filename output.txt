@@ -1,0 +1,7 @@
+For Dijkistra:
+The Cost To Move From The Given Cities = 356
+The Path Is: Hebron <- Bethlehem <- Ramallah <- Jericho <- Tubas <- Jenin <- Haifa
+For BFS:
+The Cost To Move From The Given Cities = 6
+The Path Is: Hebron <- Bethlehem <- Ramallah <- Jericho <- Nablus <- Jenin <- Haifa
+
